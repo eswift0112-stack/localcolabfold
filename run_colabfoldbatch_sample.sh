@@ -4,7 +4,7 @@ INPUTFILE="1BJP_1"
 OUTPUTDIR="${INPUTFILE}"
 RANDOMSEED=0
 
-export PATH="/path/to/localcolabfold/.pixi/envs/default/bin:${PATH}"
+export PATH=home/c21094846/anaconda3/envs/MPNN/lib/localcolabfold":${PATH}"
 
 colabfold_batch \
   --num-recycle 3 \
