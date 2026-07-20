@@ -4,7 +4,7 @@ INPUTFILE="1BJP_1"
 OUTPUTDIR="${INPUTFILE}"
 RANDOMSEED=0
 
-export PATH=home/c21094846/localcolabfold/.pixi/envs/default/bin
+export PATH=home/c21094846/localcolabfold/.pixi/envs/default/bin:${PATH}
 
 colabfold_batch \
   --num-recycle 3 \
