@@ -1,6 +1,6 @@
 #!/bin/bash
 
-INPUTFILE="1BJP_1"
+INPUTFILE="$dir/${trimmed}_WT.fa"
 OUTPUTDIR="${INPUTFILE}"
 RANDOMSEED=0
 
